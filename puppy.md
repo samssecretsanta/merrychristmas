@@ -2,4 +2,4 @@ Hi Sam, because you've been a good girl (you _have_ been a good girl right?) San
 
 Kinda. Enjoy.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/zlPb8vsvcoM" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=zlPb8vsvcoM
